@@ -4,5 +4,6 @@
   "description": "Movie API with Graphql",
   "main": "index.js",
   "repository": "https://github.com/yeoung004/graphAPI.git",
+  "author": "Choi",
   "license": "MIT"
 }
